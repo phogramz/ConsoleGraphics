@@ -296,7 +296,7 @@ void obrat(struct z* vetka)
 }
 
 
-//Вставка вкладчика в алфавитный список
+//Вставка записи в алфавитный список
 void vstavka(struct z* vetka, char* nazv)
 {
 	int i;
